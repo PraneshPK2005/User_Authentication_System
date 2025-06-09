@@ -32,4 +32,4 @@ npm start
 
 ---
 
-You can replace **`your-username`** and **`your-repo-name`** with your actual GitHub details. Let me know if you’d like to add environment setup instructions, technologies used, or other sections like *Contributing* or *License*.
+
